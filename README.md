@@ -22,7 +22,13 @@
 <br>
 
 ## Summary
-우리 페이지는 **도서 구매 예약 시스템**을 운영합니다.<p>사용자는 페이지 접속 후, 사용자 정보와 구매할 도서 정보를 입력하게 됩니다.<p>서버는 **Docker image를 이용하여 K8s를 구축**했습니다.<p>데이터베이스는 **GCP를 이용하여 구축**했습니다.<p>(현 프로젝트는 제공받은 Petclinic 코드를 일부 수정하여 진행했습니다.)
+우리 페이지는 **도서 구매 예약 시스템**을 운영합니다.<p>사용자는 페이지 접속 후, 사용자 정보와 구매할 도서 정보를 입력하게 됩니다.
+
+서버는 **Docker image를 이용하여 K8s를 구축**했습니다.
+
+데이터베이스는 **GCP를 이용하여 구축**했습니다.
+
+(현 프로젝트는 제공받은 Petclinic 코드를 일부 수정하여 진행했습니다.)
 
 <br>
 
@@ -40,7 +46,11 @@
 
 ## Environment
 <!--<div align=center>-->
-<img src="https://img.shields.io/badge/GCP-4285F4?stylefor-the-badge&logo=Google Cloud&logoColor=FAFAFA"/> <img src="https://img.shields.io/badge/Apache-D22128?stylefor-the-badge&logo=Apache&logoColor=FAFAFA"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?stylefor-the-badge&logo=Google Cloud&logoColor=FAFAFA"/> <img src="https://img.shields.io/badge/Docker-2496ED?stylefor-the-badge&logo=Docker&logoColor=FAFAFA"/> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?stylefor-the-badge&logo=Kubernetes&logoColor=FAFAFA"/> 
+<img src="https://img.shields.io/badge/BigQuery-669DF6?stylefor-the-badge&logo=Google BigQuery&logoColor=FAFAFA"/> 
+<img src="https://img.shields.io/badge/Looker-4285F4?stylefor-the-badge&logo=Looker&logoColor=FAFAFA"/> 
+<img src="https://img.shields.io/badge/Apache-D22128?stylefor-the-badge&logo=Apache&logoColor=FAFAFA"/>
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?stylefor-the-badge&logo=Apache Tomcat&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?stylefor-the-badge&logo=Apache Maven&logoColor=FAFAFA"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?stylefor-the-badge&logo=Apache JMeter&logoColor=FAFAFA"/>
