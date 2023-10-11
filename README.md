@@ -10,7 +10,7 @@
 
 ## Requirement
 
-### Web Server / WAS 서비스를 위한 인프라 구축
+#### Web Server / WAS 서비스를 위한 인프라 구축
 
 - Web Server 구축(apache v2.4 ~)
 - WAS 구축(tomcat) - java: OpenJDK 설치 & yum/dnf로 java 설치 선택
