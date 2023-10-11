@@ -38,7 +38,7 @@
 ## Architecture
 
 ![image](https://github.com/junnn0021/book-reservation-k8s/assets/119108967/ff699c5b-d883-4641-861c-37392320b74a)
-- 아키텍처 구현 과정 : [Notion](https://www.notion.so/c76fd7c84e00409bbac6a0e889c7e629)
+- 아키텍처 구현 과정 : [Notion](https://www.notion.so/Project_Docker-K8s-df3fec7282fb4ad2883eaececfec8687)
 
 <br>
 
